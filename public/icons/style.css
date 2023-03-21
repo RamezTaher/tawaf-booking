@@ -1,0 +1,123 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?fbws8w');
+  src:  url('fonts/icomoon.eot?fbws8w#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?fbws8w') format('truetype'),
+    url('fonts/icomoon.woff?fbws8w') format('woff'),
+    url('fonts/icomoon.svg?fbws8w#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Group-21:before {
+  content: "\e900";
+}
+.icon-Group-32:before {
+  content: "\e901";
+}
+.icon-image-1:before {
+  content: "\e902";
+}
+.icon-image:before {
+  content: "\e903";
+}
+.icon-instagram:before {
+  content: "\e904";
+}
+.icon-marqueur:before {
+  content: "\e905";
+}
+.icon-menu-points-vertical:before {
+  content: "\e906";
+}
+.icon-p:before {
+  content: "\e907";
+}
+.icon-Path:before {
+  content: "\e908";
+}
+.icon-snapchat:before {
+  content: "\e909";
+}
+.icon-star:before {
+  content: "\e90a";
+}
+.icon-traverser:before {
+  content: "\e90b";
+}
+.icon-twitter:before {
+  content: "\e90c";
+}
+.icon-utilisateur-1:before {
+  content: "\e90d";
+}
+.icon-utilisateur:before {
+  content: "\e90e";
+}
+.icon-vuesax-bold-star:before {
+  content: "\e90f";
+}
+.icon-WA_Logo:before {
+  content: "\e910";
+}
+.icon-Group-18:before {
+  content: "\e911";
+}
+.icon-Group-19:before {
+  content: "\e912";
+}
+.icon-Group-20:before {
+  content: "\e913";
+}
+.icon-enveloppe-1:before {
+  content: "\e914";
+}
+.icon-enveloppe-2:before {
+  content: "\e915";
+}
+.icon-enveloppe:before {
+  content: "\e916";
+}
+.icon-globe:before {
+  content: "\e917";
+}
+.icon-appel-telephonique:before {
+  content: "\e918";
+}
+.icon-calendrier:before {
+  content: "\e919";
+}
+.icon-chercher:before {
+  content: "\e91a";
+}
+.icon-echanger:before {
+  content: "\e91b";
+}
+.icon-angle-petit-droit:before {
+  content: "\e91c";
+}
+.icon-angle-petit-gauche:before {
+  content: "\e91d";
+}
+.icon-angle-petit-bas:before {
+  content: "\e91e";
+}
+.icon-Air-Conditioner:before {
+  content: "\e91f";
+}
